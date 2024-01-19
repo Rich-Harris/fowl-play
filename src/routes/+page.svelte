@@ -1,4 +1,7 @@
-<img src="/duckduckgoose.jpg" alt="Either a duck, a duck or a goose" />
+<img
+	src="/duckduckgoose.jpg"
+	alt="Either a duck, a duck or a goose"
+/>
 
 <style>
 	img {
